@@ -1,0 +1,9 @@
+[package]
+name = "ocean_sandbox"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macroquad = "0.4.14"
+egui-macroquad = "0.17.3"
+rand09 = { package = "rand", version = "0.9.2" }
