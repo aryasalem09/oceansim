@@ -6,7 +6,7 @@ Paint oil into the water, watch it advect with the flow, and deploy response too
 Another rust simulation of ocean currents with an oil spill scenario. 
 You can paint oil into the water and watch it advect with the flow, and deploy response tools like booms and skimmers to try and contain the spill.
 
-![demo](assets/demo.gif)
+![demo](assets/oceansim.gif)
 
 ## Features
 - Real-time 2D current field (wind + swirling flow)
